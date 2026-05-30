@@ -1,0 +1,1 @@
+{"vocab_size": 10000, "max_len": 200, "embed_dim": 128, "final_val_accuracy": 0.8402000069618225, "final_roc_auc": 0.9208621344, "epochs_trained": 5}
